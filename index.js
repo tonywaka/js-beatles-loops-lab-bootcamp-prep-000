@@ -28,7 +28,7 @@ johnLennonFacts(facts)
 function iLoveTheBeatles(numb) {
    array1 = []
    do {
-   array1 = array1.concat("I love the Beatles!")
+   array1 = array1.push("I love the Beatles!")
    numb++
  } while (array1.length < numb);
  return array1
