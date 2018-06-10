@@ -26,7 +26,7 @@ function johnLennonFacts(johnLennonFacts) {
 johnLennonFacts(facts)
 
 function iLoveTheBeatles(numb) {
-   array1 = []
+    let array1 = []
    do {
    array1 = array1.push("I love the Beatles!")
    numb++
